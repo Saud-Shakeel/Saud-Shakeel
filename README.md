@@ -1,4 +1,4 @@
-![logo](https://github.com/Saud-Shakeel/Saud-Shakeel/blob/master/Banner.mp4)
+![logo](https://github.com/Saud-Shakeel/Saud-Shakeel/blob/master/Banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Saud Shakeel</h1>
 <h3 align="center">A passionate ML/MLOPS Engineer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src= "https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
