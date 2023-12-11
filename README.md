@@ -1,8 +1,8 @@
 ![logo](https://github.com/Saud-Shakeel/Saud-Shakeel/blob/master/Banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Saud Shakeel</h1>
 <h3 align="center">A passionate ML/MLOPS Engineer from Pakistan</h3>
-<img align="right" alt="coding" width="400" src= "https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saud-shakeel&label=Profile%20views&color=0e75b6&style=flat" alt="saud-shakeel" /> </p>
+<img align="center" alt="coding"  src= "https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=saud-shakeel&label=Profile%20views&color=0e75b6&style=flat" alt="saud-shakeel" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saud-shakeel" alt="saud-shakeel" /></a> </p>
 
