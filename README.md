@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saud-shakeel" alt="saud-shakeel" /></a> </p>
 
-- 🔭 I’m currently working on **ML/MLOPS**
+- 🔭 I’m currently working on **LLMs/Langchain**
 
-- 🌱 I’m currently learning **MLOPS implementations and concepts**
+- 🌱 I’m currently learning **Vector Databases, Embeddings and LLMs**
 
-- 💬 Ask me about **Machine Learning/MLOPS, AI, Data Science, Neural Networks**
+- 💬 Ask me about **Machine Learning/MLOPS, AI, Data Science, Neural Networks, LLMs, Langchain**
 
 - 📫 How to reach me **https://www.linkedin.com/in/saud-shakeel/**
 
